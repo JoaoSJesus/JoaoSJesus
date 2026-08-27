@@ -52,12 +52,7 @@ Atualmente, desenvolvo projetos práticos de back-end, mobile e manipulação de
 
 ---
 
-## Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoSJesus&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSJesus&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
+## Contribuições no GitHub
 
 <p align="center">
   <img src="https://ghchart.rshah.org/JoaoSJesus" alt="Gráfico de contribuições no GitHub" />
