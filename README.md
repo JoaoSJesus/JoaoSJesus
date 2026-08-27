@@ -1,24 +1,30 @@
-## Olá, meu nome é João Pedro!
+<h1 align="center">Olá, eu sou João Pedro!</h1>
 
-Estudante de **Desenvolvimento de Sistemas** na ETEC Professor Basilides de Godoy e no ensino médio da E.E. Professora Heloísa de Assumpção, com foco em construir uma carreira sólida como **Engenheiro de Software**.
+<p align="center">
+  Estudante de Desenvolvimento de Sistemas e aspirante a Engenheiro de Software
+</p>
 
-Atualmente, desenvolvo projetos práticos de back-end, mobile e manipulação de dados, aprofundando meus conhecimentos em **Kotlin, Python, Java e bancos de dados**, além de explorar ferramentas essenciais para o dia a dia profissional.
+<p align="center">
+  <a href="https://www.linkedin.com/in/jo%C3%A3osjpedro/">LinkedIn</a>
+  ·
+  <a href="https://github.com/JoaoSJesus">GitHub</a>
+</p>
 
 ---
 
-## Meus Projetos em Destaque
+## Sobre mim
 
-* **[Aplicativo Mobile IMC](https://github.com/JoaoSJesus/Aplicativo_Mobile_IMC)**
-  * **Tecnologias:** Kotlin, Android
-  * **Descrição:** Aplicativo focado no cálculo de Índice de Massa Corporal.
+Sou estudante da ETEC Professor Basilides de Godoy e do ensino médio da E.E. Professora Heloísa de Assumpção. Atualmente, desenvolvo projetos práticos de back-end, mobile e manipulação de dados, aprofundando meus conhecimentos em **Kotlin, Python, Java e bancos de dados**.
 
-* **[Calculadora IMC e Peso Ideal](https://github.com/JoaoSJesus/Calculadora_IMC_e_Peso_Ideal)**
-  * **Tecnologias:** Kotlin, Android
-  * **Descrição:** Sistema mobile para cálculo detalhado de IMC e estimativa de peso ideal.
+---
 
-* **[Cardápio](https://github.com/JoaoSJesus/Cardapio)**
-  * **Tecnologias:** HTML, CSS, JavaScript
-  * **Descrição:** Projeto web voltado para a exibição e gerenciamento de opções de cardápio digital.
+## Projetos em destaque
+
+| Projeto | Tecnologias | Descrição |
+| --- | --- | --- |
+| [Aplicativo Mobile IMC](https://github.com/joao-dev-ds/Aplicativo_Mobile_IMC) | Kotlin, Android | Aplicativo para cálculo de Índice de Massa Corporal. |
+| [Calculadora IMC e Peso Ideal](https://github.com/joao-dev-ds/Calculadora_IMC_e_Peso_Ideal) | Kotlin, Android | Sistema mobile para cálculo de IMC e estimativa de peso ideal. |
+| [Cardápio](https://github.com/JoaoSJesus/Cardapio) | HTML, CSS, JavaScript | Projeto web para exibição e gerenciamento de cardápio digital. |
 
 ---
 
