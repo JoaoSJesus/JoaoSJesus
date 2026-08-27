@@ -50,6 +50,12 @@ Atualmente, desenvolvo projetos práticos de back-end, mobile e manipulação de
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" style="filter: brightness(0) invert(1);"/>
 </p>
 
+### Plataformas
+<p>
+  <img height="32" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Microsoft Excel"/>
+  <img height="32" src="https://img.icons8.com/color/48/azure-1.png" alt="Microsoft Azure"/>
+</p>
+
 ---
 
 ## Contribuições no GitHub
