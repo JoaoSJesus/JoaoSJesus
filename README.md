@@ -61,7 +61,7 @@ Atualmente, desenvolvo projetos práticos de back-end, mobile e manipulação de
 ## Contribuições no GitHub
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/JoaoSJesus" alt="Gráfico de contribuições no GitHub" />
+  <img width="100%" src="https://ghchart.rshah.org/JoaoSJesus" alt="Gráfico de contribuições no GitHub" style="max-width: 900px; height: auto;" />
 </p>
 
 ---
