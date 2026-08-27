@@ -53,7 +53,7 @@ Sou estudante da ETEC Professor Basilides de Godoy e do ensino médio da E.E. Pr
 ### Ferramentas & Controle de Versão
 <p>
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" style="filter: invert(1);"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" style="filter: brightness(0) saturate(100%) invert(1);"/>
 </p>
 
 ### Plataformas
