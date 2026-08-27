@@ -64,14 +64,6 @@ Sou estudante da ETEC Professor Basilides de Godoy e do ensino médio da E.E. Pr
 
 ---
 
-## Contribuições no GitHub
-
-<p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/JoaoSJesus" alt="Gráfico de contribuições no GitHub" style="max-width: 900px; height: auto;" />
-</p>
-
----
-
 ## Contato
 
 Estou aberto a conexões profissionais, feedbacks e oportunidades na área de tecnologia. Entre em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/jo%C3%A3osjpedro/) ou acompanhe meus repositórios aqui no GitHub.
