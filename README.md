@@ -27,7 +27,7 @@ Sou estudante da ETEC Professor Basilides de Godoy e do ensino médio da E.E. Pr
 | [Cardápio](https://github.com/JoaoSJesus/Cardapio) | HTML, CSS, JavaScript | Projeto web para exibição e gerenciamento de cardápio digital. |
 | [Calculadoras PW II](https://github.com/joao-dev-ds/calculadoras-pwII) | JavaScript | Coleção de calculadoras desenvolvidas em JavaScript para a disciplina de Programação Web II. |
 | [Bike](https://github.com/joao-dev-ds/bike) | C# | Projeto em C# focado em gerenciamento de bicicletas. |
-| [Moda do Amanhã](https://github.com/joao-dev-ds/modao-do-amanha) | C# | Projeto em desenvolvimento com foco em soluções inovadoras. |
+| [Moda do Amanhã](https://github.com/joao-dev-ds/modao-do-amanha) | C# | Projeto desenvolvido com foco em soluções inovadoras. |
 
 ---
 
@@ -35,7 +35,6 @@ Sou estudante da ETEC Professor Basilides de Godoy e do ensino médio da E.E. Pr
 
 ### Linguagens
 <p>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/>
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/>
