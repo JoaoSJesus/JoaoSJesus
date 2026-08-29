@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-Sou estudante da ETEC Professor Basilides de Godoy e do ensino médio da E.E. Professora Heloísa de Assumpção. Atualmente, desenvolvo projetos práticos de back-end, mobile e manipulação de dados com foco em soluções inovadoras.
+Sou estudante da ETEC Professor Basilides de Godoy e do ensino médio da E.E. Professora Heloísa de Assumpção. Atualmente, desenvolvo projetos práticos de back-end, mobile e manipulação de dados[...]
 
 ---
 
@@ -25,6 +25,9 @@ Sou estudante da ETEC Professor Basilides de Godoy e do ensino médio da E.E. Pr
 | [Aplicativo Mobile IMC](https://github.com/joao-dev-ds/Aplicativo_Mobile_IMC) | Kotlin, Android | Aplicativo para cálculo de Índice de Massa Corporal. |
 | [Calculadora IMC e Peso Ideal](https://github.com/joao-dev-ds/Calculadora_IMC_e_Peso_Ideal) | HTML, CSS e JavaScript | Sistema web para cálculo de IMC e estimativa de peso ideal. |
 | [Cardápio](https://github.com/JoaoSJesus/Cardapio) | HTML, CSS, JavaScript | Projeto web para exibição e gerenciamento de cardápio digital. |
+| [Calculadoras PW II](https://github.com/joao-dev-ds/calculadoras-pwII) | JavaScript | Coleção de calculadoras desenvolvidas em JavaScript para a disciplina de Programação Web II. |
+| [Bike](https://github.com/joao-dev-ds/bike) | C# | Projeto em C# focado em gerenciamento de bicicletas. |
+| [Moda do Amanhã](https://github.com/joao-dev-ds/modao-do-amanha) | C# | Projeto em desenvolvimento com foco em soluções inovadoras. |
 
 ---
 
@@ -67,4 +70,4 @@ Sou estudante da ETEC Professor Basilides de Godoy e do ensino médio da E.E. Pr
 
 ## Contato
 
-Estou aberto a conexões profissionais, feedbacks e oportunidades na área de tecnologia. Entre em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/jo%C3%A3osjpedro/) ou acompanhe meus projetos aqui no GitHub!
+Estou aberto a conexões profissionais, feedbacks e oportunidades na área de tecnologia. Entre em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/jo%C3%A3osjpedro/) ou acompanhe[...]
