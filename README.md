@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-Sou estudante da ETEC Professor Basilides de Godoy e do ensino médio da E.E. Professora Heloísa de Assumpção. Atualmente, desenvolvo projetos práticos de back-end, mobile e manipulação de dados[...]
+Sou estudante da ETEC Professor Basilides de Godoy e do ensino médio da E.E. Professora Heloísa de Assumpção. Atualmente, desenvolvo projetos práticos de back-end, mobile e manipulação de dados com foco em soluções inovadoras.
 
 ---
 
@@ -33,6 +33,7 @@ Sou estudante da ETEC Professor Basilides de Godoy e do ensino médio da E.E. Pr
 ### Linguagens
 <p>
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/>
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/>
 </p>
@@ -66,4 +67,4 @@ Sou estudante da ETEC Professor Basilides de Godoy e do ensino médio da E.E. Pr
 
 ## Contato
 
-Estou aberto a conexões profissionais, feedbacks e oportunidades na área de tecnologia. Entre em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/jo%C3%A3osjpedro/) ou acompanhe[...]
+Estou aberto a conexões profissionais, feedbacks e oportunidades na área de tecnologia. Entre em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/jo%C3%A3osjpedro/) ou acompanhe meus projetos aqui no GitHub!
