@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-Sou estudante da ETEC Professor Basilides de Godoy e do ensino médio da E.E. Professora Heloísa de Assumpção. Atualmente, desenvolvo projetos práticos de back-end, mobile e manipulação de dados[...]
+Sou estudante da ETEC Professor Basilides de Godoy. Atualmente, desenvolvo projetos práticos de back-end, mobile e manipulação de dados.
 
 ---
 
